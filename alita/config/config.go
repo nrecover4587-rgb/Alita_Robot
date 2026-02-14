@@ -558,5 +558,5 @@ func init() {
 	}
 	log.SetReportCaller(cfg.Debug) // Only enable stack traces in debug mode
 
-	log.Info("[Config] Configuration loaded and validated successfully")
+	log.Info("[Config] Configuration loaded and validated successfully")l
 }
